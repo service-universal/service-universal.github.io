@@ -1,0 +1,21 @@
+{
+  "name": "Сервис-универсал",
+  "short_name": "Сервис-универсал",
+  "description": "Сайт мастера по ремонту стиральных и посудомоечных машин",
+  "icons": [
+    {
+      "src": "images/manifest/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/manifest/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#455A64",
+  "background_color": "#455A64"
+}
