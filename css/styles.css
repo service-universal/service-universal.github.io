@@ -484,11 +484,11 @@ header .full-screen {
 
 .phone-head {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #ffffff;
   /*float: right;*/
   position: absolute;
-  top: 2%;
+  top: 5%;
   right: 10%;
 }
 
@@ -635,6 +635,11 @@ header .intro-section .buttons {
 
 .features .phone-image img {
   width: 100%;
+}
+
+#brief1 img {
+  padding-top: 42px;
+
 }
 
 /*---------------------------------------
