@@ -484,18 +484,27 @@ header .full-screen {
 
 .phone-head {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.5rem;
-  color: #ffffff;
-  /*float: right;*/
+  font-size: 3.5rem;
+  /* color: #ffffff; */
+  color: #FFC107;
+  /* color: #FFEB3B; */
+  float: right;
   position: absolute;
-  top: 5%;
-  right: 10%;
+  top: 10%;
+  left: 10%;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+
 }
 
 .phone-header {
   float: right;
   line-height: 3.65rem;
   margin-right: 2rem;
+  color: rgb(190, 30, 83);
+  font-weight: 800;
+  font-size: 2.3rem;
+
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 /* TOP BAR WITH NAVIGATION */
@@ -905,11 +914,20 @@ object {
 }
 
 .download .download-container {
-  padding-bottom: 80px;
+  padding-bottom: 150px;
 }
 
 .download .subscription-form-container {
-  padding-bottom: 80px;
+  padding-bottom: 150px;
+  color: #FFC107;
+
+
+}
+
+.subscription-form-container h3 {
+  font-size: 2.3rem;
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
+  
 }
 
 .download .subscription-form .input-box {
